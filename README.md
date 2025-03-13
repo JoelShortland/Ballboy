@@ -1,1 +1,1 @@
-A Java program that I made, using a number of OOP principles, including: Factory, Observer & Memento.
+A Java program that I made as part of a USYD SOFT2201 Project. It is a 2D platformer that makes use of structured java code, using a number of OOP design principles, including: Factory, Observer & Memento.
