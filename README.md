@@ -15,15 +15,15 @@ Original readme from assignment below:
 # Design Patterns
 ## Observer
 Involved classes:
-Subject: DynamicEntityImpl
-Observer: EnemyDeathObserverImpl
-AbstractSubject: DynamicEntity
-AbstractObserver: EnemyObserver
+- Subject: DynamicEntityImpl
+- Observer: EnemyDeathObserverImpl
+- AbstractSubject: DynamicEntity
+- AbstractObserver: EnemyObserver
 
 ## Memento
 Involved classed:
--Caretaker (stores GameState)
--Memento: GameState
--LevelState is a part of gamestate, used to follow abstraction and increase readability
--ConstraintSolver: GameEngine
+- Caretaker (stores GameState)
+- Memento: GameState
+- LevelState is a part of gamestate, used to follow abstraction and increase readability
+- ConstraintSolver: GameEngine
 
