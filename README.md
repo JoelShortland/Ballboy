@@ -1,6 +1,6 @@
 A Java program that I made as part of a USYD SOFT2201 Project. It is a 2D platformer that makes use of structured java code, using a number of OOP design principles, including: Factory, Observer & Memento.
 
-Original readme from assignment below:
+Original readme from assignment below:\\
 How to run code
 -Code runs with gradle build > gradle run
 
