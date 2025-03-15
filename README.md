@@ -21,7 +21,7 @@ Involved classes:
 - AbstractObserver: EnemyObserver
 
 ## Memento
-Involved classed:
+Involved classes:
 - Caretaker (stores GameState)
 - Memento: GameState
 - LevelState is a part of gamestate, used to follow abstraction and increase readability
